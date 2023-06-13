@@ -1,0 +1,9 @@
+{
+  "name": "vikas",
+  "email": "vikas@gmail.com",
+  "password": "vikas",
+  "age": 25,
+  "gender": "male",
+  "city": "airoli",
+  "is_married": false
+}
